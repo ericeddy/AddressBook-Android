@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="unavailable">#AAFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="lineitem_break">#8D96D3</color>
+    <color name="lineitem_bg_real">#F0F2F9</color>
+    <color name="lineitem_bg_fake">#DEE1F2</color>
+    <color name="greyed_out">#88444444</color>
+    <color name="contactfrag_bg">#5C6EE0</color>
+</resources>

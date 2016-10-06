@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/listitem_bg" android:background="@color/lineitem_bg_real">
+
+    <TextView
+        android:id="@+id/listitem_name"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/listitem_height"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/listitem_name_left"
+        android:textSize="@dimen/font_16"
+        android:lines="1"
+        android:ellipsize="end"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/general_1"
+        android:background="@color/lineitem_break"
+        android:layout_below="@+id/listitem_name"/>
+</RelativeLayout>

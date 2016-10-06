@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Address Book</string>
+
+    <string name="label_phone">Phone:</string>
+    <string name="label_email">Email:</string>
+    <string name="resource_unavailable">Unavailable</string>
+    <string name="goto_contact_btn">View in Contacts</string>
+</resources>
